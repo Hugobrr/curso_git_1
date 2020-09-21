@@ -1,1 +1,3 @@
 teste do repositorio
+Entendi que para criar um repositorio tenho que logar no githup e seguir os paços desse do git 
+e depois tenho quie seguir atualizando meu codigo
